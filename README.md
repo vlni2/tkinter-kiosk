@@ -1,5 +1,5 @@
 # tkinter-kiosk
 
 needed libraries:
-pip install customtkinter
-pip install PIL
+`pip install customtkinter`
+`pip install PIL`
